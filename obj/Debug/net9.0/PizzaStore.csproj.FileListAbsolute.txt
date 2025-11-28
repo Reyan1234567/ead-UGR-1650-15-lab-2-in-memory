@@ -6,3 +6,4 @@ C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.AssemblyInfo.cs
 C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.csproj.CoreCompileInputs.cache
 C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.sourcelink.json
