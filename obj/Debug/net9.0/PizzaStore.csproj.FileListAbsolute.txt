@@ -1,0 +1,8 @@
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.csproj.AssemblyReference.cache
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.AssemblyInfoInputs.cache
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.AssemblyInfo.cs
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.csproj.CoreCompileInputs.cache
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\lab2\inMemory\PizzaStore\obj\Debug\net9.0\PizzaStore.MvcApplicationPartsAssemblyInfo.cache
